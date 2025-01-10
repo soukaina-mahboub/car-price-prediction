@@ -10,7 +10,6 @@ This project involves web scraping car data from Avito (Moroccan marketplace) an
 - [Model Building](#model-building)
 - [Results](#results)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 
 ## Data Collection
 - Scraped car listings data from Avito using BeautifulSoup
